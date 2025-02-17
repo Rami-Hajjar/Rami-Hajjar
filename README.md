@@ -1,8 +1,8 @@
 ## 💫 Hi, I'm Rami!
 
-⚡ I am a third-year Bachelor of Commerce student at Carleton University, specializing in Information Systems. Passionate about solving complex problems and leveraging technology to enhance business processes.
+⚡ I'm a third-year Bachelor of Commerce student at Carleton University, specializing in Information Systems. Passionate about solving complex problems and leveraging technology to enhance business processes.
 
-🌐 Socials:
+
 
 <!--
 - 🔭 I’m currently working on ...
@@ -15,6 +15,6 @@
 
 
 
-
+🌐 Socials:
 
 -->
