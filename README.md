@@ -1,16 +1,20 @@
-## Hi there 👋
+## 💫 Hi, I'm Rami!
+
+⚡ I am a third-year Bachelor of Commerce student at Carleton University, specializing in Information Systems. Passionate about solving complex problems and leveraging technology to enhance business processes.
+
+🌐 Socials:
 
 <!--
-**Rami-Hajjar/Rami-Hajjar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+
+
+
 -->
