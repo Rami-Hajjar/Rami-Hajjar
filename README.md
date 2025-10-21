@@ -3,10 +3,10 @@
 ⚡ I'm a third-year Bachelor of Commerce student at Carleton University, specializing in Information Systems. Passionate about solving complex problems, building full-stack applications, and leveraging technology to enhance business processes through data, automation, and AI.
 
 
-
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rami-el-hajjar)
-[![Email](https://img.shields.io/badge/Email-rami.hajjar26%40gmail.com-red?logo=gmail&logoColor=white)](mailto:rami.hajjar26@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rami-el-hajjar)
+[![Email](https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rami.hajjar26@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rami-Hajjar)
 
 
 ---
