@@ -68,7 +68,6 @@
 ### **📎 General Tools**
 ![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![Adobe Creative Suite](https://img.shields.io/badge/Adobe%20Creative%20Suite-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
