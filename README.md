@@ -84,4 +84,5 @@
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Rami-Hajjar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-![Visits](https://visitcount.itsvg.in/api?id=Rami-Hajjar&icon=0&color=0)
+![Profile Views](https://komarev.com/ghpvc/?username=Rami-Hajjar&label=Profile%20Views&color=blueviolet&style=for-the-badge)
+
