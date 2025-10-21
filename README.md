@@ -5,9 +5,9 @@
 
 
 ## 🌐 Socials:
-![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)
-[LinkedIn Profile](https://www.linkedin.com/in/rami-el-hajjar)
-![Email](https://img.shields.io/badge/Email-rami.hajjar26%40gmail.com-red?logo=gmail&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rami-el-hajjar)
+[![Email](https://img.shields.io/badge/Email-rami.hajjar26%40gmail.com-red?logo=gmail&logoColor=white)](mailto:rami.hajjar26@gmail.com)
+
 
 ---
 
