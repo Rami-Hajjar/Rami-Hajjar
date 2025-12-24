@@ -82,7 +82,8 @@ I'm passionate about solving complex problems, and leveraging technology to impr
 
 ---
 # 📊 GitHub Stats 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rami-Hajjar&theme=dark&hide_border=false)<br/> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rami-Hajjar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rami-Hajjar&theme=dark&hide_border=false)<br/> 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rami-Hajjar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
 
 ## 🏆 GitHub Trophies 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Rami-Hajjar&theme=radical&no-frame=false&no-bg=true&margin-w=4) 
