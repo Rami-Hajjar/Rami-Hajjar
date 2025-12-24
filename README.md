@@ -87,5 +87,6 @@ I'm passionate about solving complex problems, and leveraging technology to impr
 
 ## 🏆 GitHub Trophies 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Rami-Hajjar&theme=radical&no-frame=false&no-bg=true&margin-w=4) 
+
 --- 
 ![Profile Views](https://komarev.com/ghpvc/?username=Rami-Hajjar&label=Profile%20Views&color=blueviolet&style=for-the-badge)
