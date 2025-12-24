@@ -81,12 +81,12 @@ I'm passionate about solving complex problems, and leveraging technology to impr
 ![Adobe Creative Suite](https://img.shields.io/badge/Adobe%20Creative%20Suite-FF0000?style=for-the-badge&logo=adobecreativecloud&logoColor=white)
 
 ---
-# 📊 GitHub Stats 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rami-Hajjar&theme=dark&hide_border=false)<br/> 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rami-Hajjar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
+## 📊 GitHub Activity
 
-## 🏆 GitHub Trophies 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Rami-Hajjar&theme=radical&no-frame=false&no-bg=true&margin-w=4) 
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rami-Hajjar&layout=compact&theme=dark"
+  alt="Top Languages"
+/>
 
 --- 
 ![Profile Views](https://komarev.com/ghpvc/?username=Rami-Hajjar&label=Profile%20Views&color=blueviolet&style=for-the-badge)
