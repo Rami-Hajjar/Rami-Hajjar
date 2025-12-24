@@ -1,7 +1,7 @@
 ## 💫 Hi, I'm Rami!
 
-⚡ I'm a third-year Bachelor of Commerce student at Carleton University, specializing in Information Systems.  
-I'm passionate about solving complex problems, building full-stack applications, and leveraging technology to improve business processes through data, automation, and AI.
+⚡ I'm a fourth-year Bachelor of Commerce student at Carleton University, specializing in Information Systems.  
+I'm passionate about solving complex problems, and leveraging technology to improve business processes through data, automation, and AI.
 
 ---
 
@@ -81,16 +81,7 @@ I'm passionate about solving complex problems, building full-stack applications,
 ![Adobe Creative Suite](https://img.shields.io/badge/Adobe%20Creative%20Suite-FF0000?style=for-the-badge&logo=adobecreativecloud&logoColor=white)
 
 ---
+# 📊 GitHub Stats ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rami-Hajjar&theme=dark&hide_border=false)<br/> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rami-Hajjar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
 
-## 📊 GitHub Stats
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rami-Hajjar&theme=dark&hide_border=false)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rami-Hajjar&theme=dark&hide_border=false&layout=compact)
-
----
-
-## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=Rami-Hajjar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=Rami-Hajjar&label=Profile%20Views&color=blueviolet&style=for-the-badge)
+## 🏆 GitHub Trophies ![Trophies](https://github-profile-trophy.vercel.app/?username=Rami-Hajjar&theme=radical&no-frame=false&no-bg=true&margin-w=4) 
+--- ![Profile Views](https://komarev.com/ghpvc/?username=Rami-Hajjar&label=Profile%20Views&color=blueviolet&style=for-the-badge)
