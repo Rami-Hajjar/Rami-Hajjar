@@ -41,7 +41,5 @@ I'm passionate about solving complex problems, and leveraging technology to impr
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rami-el-hajjar)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rami.hajjar26@gmail.com)
 
----
-
 --- 
 ![Profile Views](https://komarev.com/ghpvc/?username=Rami-Hajjar&label=Profile%20Views&color=blueviolet&style=for-the-badge)
