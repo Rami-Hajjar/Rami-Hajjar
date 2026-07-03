@@ -43,11 +43,5 @@ I'm passionate about solving complex problems, and leveraging technology to impr
 
 ---
 
-## 📈 GitHub Stats
-
-![Rami's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rami-Hajjar&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rami-Hajjar&layout=compact&theme=tokyonight&hide_border=true)
-
 --- 
 ![Profile Views](https://komarev.com/ghpvc/?username=Rami-Hajjar&label=Profile%20Views&color=blueviolet&style=for-the-badge)
