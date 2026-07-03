@@ -8,7 +8,6 @@ I'm passionate about solving complex problems, and leveraging technology to impr
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rami-el-hajjar)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rami.hajjar26@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rami-Hajjar)
 
 ---
 
@@ -46,9 +45,9 @@ I'm passionate about solving complex problems, and leveraging technology to impr
 
 ## 📈 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Rami-Hajjar&show_icons=true&hide_border=true&theme=github_dark" />
+![Rami's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rami-Hajjar&show_icons=true&theme=tokyonight&hide_border=true)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rami-Hajjar&layout=compact&hide_border=true&theme=github_dark" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rami-Hajjar&layout=compact&theme=tokyonight&hide_border=true)
 
 --- 
 ![Profile Views](https://komarev.com/ghpvc/?username=Rami-Hajjar&label=Profile%20Views&color=blueviolet&style=for-the-badge)
